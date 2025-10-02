@@ -545,14 +545,10 @@ END LICENSE CODE
             const message = userInput.value.trim();
             if (message === '') return;
             
-            // Tampilkan pesan pengguna di antarmuka
             addMessage('user', message);
-            
-            // Bersihkan input field
             userInput.value = '';
             
-            // URL webhook n8n
-            const n8nWebhookUrl = 'https://cutindahrrr.app.n8n.cloud/webhook/a4cacacb-0589-4efa-bf5b-74aa2276805e';
+            const n8nWebhookUrl = 'https://cutindahrai.app.n8n.cloud/webhook/a4cacacb-0589-4efa-bf5b-74aa2276805e';
 
             // Kirim pesan ke n8n
             fetch(n8nWebhookUrl, {
@@ -571,7 +567,7 @@ END LICENSE CODE
                 return response.json();
             })
             .then(data => {
-                // Menampilkan respons dari n8n ke antarmuka
+                // Menampilkan respons dari n8n
                 const botResponse = data.response.text;
                 addMessage('bot', botResponse);
             })
