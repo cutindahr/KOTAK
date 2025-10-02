@@ -1,0 +1,11 @@
+<p>Saleum,</p>
+<p> </p>
+<p>Seorang pelanggan baru saja membalas tiket "%%SUBJECT%%".</p>
+<p> </p>
+<p>Anda dapat melihat pesan balasan dan mengatur tiket ini di sini:</p>
+<p><a href="%%TRACK_URL%%">%%TRACK_URL%%</a></p>
+<p> </p>
+<p>Hormat kami,</p>
+<p> </p>
+<p>%%SITE_TITLE%%</p>
+<p><a href="%%SITE_URL%%">%%SITE_URL%%</a></p>

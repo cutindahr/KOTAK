@@ -1,0 +1,17 @@
+<p>Saleum,</p>
+<p> </p>
+<p>Sebuah catatan telah ditambahkan ke tiket "%%SUBJECT%%" yang ditugaskan kepada Anda.</p>
+<p> </p>
+<p>Catatan oleh %%NAME%%:</p>
+<p> </p>
+<p>%%MESSAGE%%</p>
+<p> </p>
+<p> </p>
+<p>Anda dapat mengelola tiket di sini:</p>
+<p><a href="%%TRACK_URL%%">%%TRACK_URL%%</a></p>
+<p> </p>
+<p> </p>
+<p>Hormat kami,</p>
+<p> </p>
+<p>%%SITE_TITLE%%</p>
+<p><a href="%%SITE_URL%%">%%SITE_URL%%</a></p>

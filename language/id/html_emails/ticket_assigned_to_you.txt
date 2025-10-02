@@ -1,0 +1,15 @@
+<p>Saleum,</p>
+<p> </p>
+<p>Sebuah tiket bantuan baru telah ditugaskan kepada Anda. Rincian tiket:</p>
+<p> </p>
+<p>Subjek Tiket: %%SUBJECT%%</p>
+<p>ID Pelacakan: %%TRACK_ID%%</p>
+<p> </p>
+<p>Anda dapat mengelola tiket ini di sini:</p>
+<p><a href="%%TRACK_URL%%">%%TRACK_URL%%</a></p>
+<p> </p>
+<p> </p>
+<p>Hormat kami,</p>
+<p> </p>
+<p>%%SITE_TITLE%%</p>
+<p><a href="%%SITE_URL%%">%%SITE_URL%%</a></p>

@@ -1,0 +1,18 @@
+<p>Yth. %%NAME%%,</p>
+<p> </p>
+<p>Tiket bantuan Anda "%%SUBJECT%%" telah dikirimkan.</p>
+<p> </p>
+<p>Kami akan membalas semua tiket secepatnya, di antara 24 sampai 48 jam. Jika tiket Anda mungkin membutuhkan waktu tambahan, kami akan menginformasikan kepada Anda dengan mengirimkan sebuah email.</p>
+<p> </p>
+<p>ID Pelacakan TIket: %%TRACK_ID%%</p>
+<p> </p>
+<p>Anda dapat melihat status tiket Anda di sini:</p>
+<p><a href="%%TRACK_URL%%">%%TRACK_URL%%</a></p>
+<p> </p>
+<p>Anda akan menerina pemberitahuan email ketika staf kami membalas tiket Anda.</p>
+<p> </p>
+<p> </p>
+<p>Hormat kami,</p>
+<p> </p>
+<p>%%SITE_TITLE%%</p>
+<p><a href="%%SITE_URL%%">%%SITE_URL%%</a></p>

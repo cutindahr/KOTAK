@@ -1,0 +1,11 @@
+<p>Yth. %%NAME%%,</p>
+<p> </p>
+<p>Email ini mengandung daftar tiket bantuan yang dikirimkan dengan alamat email Anda. Jumlah tiket bantuan yang ditemukan: <strong>%%NUM%%</strong></p>
+<p> </p>
+<p>%%LIST_TICKETS%%</p>
+<p> </p>
+<p> </p>
+<p>Hormat kami,</p>
+<p> </p>
+<p>%%SITE_TITLE%%</p>
+<p><a href="%%SITE_URL%%">%%SITE_URL%%</a></p>
